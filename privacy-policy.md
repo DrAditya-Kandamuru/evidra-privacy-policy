@@ -5,7 +5,7 @@ Last updated: December 2025
 EVIDRA is an educational and professional platform intended for medical and pharmacology professionals to share, discuss, and reference scientific evidence. The platform is designed for academic and professional use only.
 
 ## Information We Collect
-- Account information (such as name and email address) provided during sign-in
+- Account information (such as name, email address, or phone number) provided during sign-in
 - User-generated content (posts, comments, evidence references)
 - Basic usage analytics to improve app performance and stability
 
@@ -42,7 +42,7 @@ Users can request deletion of their EVIDRA account at any time.
 
 To request account deletion:
 - Email us at: EVIDRALabs@outlook.com
-- Use the email address registered with your EVIDRA account
+- Use the email address or phone number registered with your EVIDRA account
 - Include “Account Deletion Request” in the subject line
 
 Once the request is verified, the following data will be permanently deleted:
